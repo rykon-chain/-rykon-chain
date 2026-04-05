@@ -4,7 +4,6 @@ RYKON is a Layer 1 blockchain built for speed and scale.
 
 ## Coin
 | | |
-|---|---|
 | **Name** | RYKON |
 | **Ticker** | RYK |
 | **Total Supply** | 10,000,000,000 |
@@ -12,7 +11,6 @@ RYKON is a Layer 1 blockchain built for speed and scale.
 
 ## Performance
 | | |
-|---|---|
 | **TPS** | 50,000 |
 | **Finality** | Sub-200ms |
 | **VM** | EVM Compatible |
