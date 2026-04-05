@@ -6,7 +6,7 @@ RYKON is a Layer 1 blockchain built for speed and scale.
 | | |
 |---|---|
 | **Name** | RYKON |
-| **Ticker** | RYK |
+| **Ticker** | RYKN |
 | **Total Supply** | 10,000,000,000 |
 | **Use** | Gas · Staking · Governance |
 
@@ -22,8 +22,7 @@ RYKON is a Layer 1 blockchain built for speed and scale.
 - Twitter: https://twitter.com/RykonChain
 
 ## Status
-In development. Mainnet 2027.
+In development. Mainnet mid 2027.
 
 ---
-© 2026 RYKON. All rights reserved.
-RYK is the official native coin of the RYKON blockchain.
+Copyright © 2026 RYKON.network. All rights reserved. RYKON and RYKN are registered trademarks; unauthorized use prohibited.
