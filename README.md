@@ -22,7 +22,7 @@ RYKON is a Layer 1 blockchain built for speed and scale.
 - Twitter: https://twitter.com/RykonChain
 
 ## Status
-In development. Mainnet mid 2027.
+In development. Mainnet Beta Q3-Q4 2027.
 
 ---
 Copyright © 2026 RYKON.network. All rights reserved. RYKON and RYKN are registered trademarks; unauthorized use prohibited.
